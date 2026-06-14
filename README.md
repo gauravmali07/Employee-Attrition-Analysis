@@ -45,6 +45,6 @@ XYZ Company has been experiencing an employee attrition rate of approximately 15
 **Gaurav Mali**
 
 - GitHub: https://github.com/gauravmali07
-- LinkedIn: (Add your LinkedIn profile link)
+- LinkedIn: [(Add your LinkedIn profile link)](https://www.linkedin.com/in/gaurav-mali78/)
 
 ## ⭐ If you found this project useful, please give it a star! And Do Follow!!!
