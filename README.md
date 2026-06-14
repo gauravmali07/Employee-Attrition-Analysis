@@ -39,7 +39,7 @@ XYZ Company has been experiencing an employee attrition rate of approximately 15
 4. Explore interactive visualizations and insights.
 
 ## 📸 Dashboard Preview
-(Add dashboard screenshots here)
+<img width="1427" height="800" alt="1" src="https://github.com/user-attachments/assets/d63f209c-5921-4043-ae96-f9c167942226" />
 
 ## 👨‍💻 Author
 **Gaurav Mali**
@@ -47,4 +47,4 @@ XYZ Company has been experiencing an employee attrition rate of approximately 15
 - GitHub: https://github.com/gauravmali07
 - LinkedIn: (Add your LinkedIn profile link)
 
-## ⭐ If you found this project useful, please give it a star!
+## ⭐ If you found this project useful, please give it a star! And Do Follow!!!
